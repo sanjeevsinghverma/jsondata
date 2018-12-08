@@ -1,0 +1,94 @@
+{
+  "id": 15945,
+  "rev": 5,
+  "fields": {
+    "System.AreaPath": "ElevateUk\\Forte",
+    "System.TeamProject": "ElevateUk",
+    "System.IterationPath": "ElevateUk\\Sprint 134",
+    "System.WorkItemType": "Bug",
+    "System.State": "Ready",
+    "System.Reason": "Moved out of state In Development",
+    "System.AssignedTo": {
+      "displayName": "Nghia Tran Duy",
+      "url": "https://app.vssps.visualstudio.com/Afa575fd0-39e3-44b8-824d-df779cd30f16/_apis/Identities/58777f3d-8c6e-667b-a51c-c01914d7a230",
+      "_links": {
+        "avatar": {
+          "href": "https://elevatecredit.visualstudio.com/_apis/GraphProfile/MemberAvatars/aad.NTg3NzdmM2QtOGM2ZS03NjdiLWE1MWMtYzAxOTE0ZDdhMjMw"
+        }
+      },
+      "id": "58777f3d-8c6e-667b-a51c-c01914d7a230",
+      "uniqueName": "NTranDuy@elevatecredit.co.uk",
+      "imageUrl": "https://elevatecredit.visualstudio.com/_api/_common/identityImage?id=58777f3d-8c6e-667b-a51c-c01914d7a230",
+      "descriptor": "aad.NTg3NzdmM2QtOGM2ZS03NjdiLWE1MWMtYzAxOTE0ZDdhMjMw"
+    },
+    "System.CreatedDate": "2018-12-05T11:59:25.07Z",
+    "System.CreatedBy": {
+      "displayName": "Harshad Edake",
+      "url": "https://app.vssps.visualstudio.com/Afa575fd0-39e3-44b8-824d-df779cd30f16/_apis/Identities/67b0f2cf-b35e-6905-89fa-c50b44cdfef0",
+      "_links": {
+        "avatar": {
+          "href": "https://elevatecredit.visualstudio.com/_apis/GraphProfile/MemberAvatars/aad.NjdiMGYyY2YtYjM1ZS03OTA1LTg5ZmEtYzUwYjQ0Y2RmZWYw"
+        }
+      },
+      "id": "67b0f2cf-b35e-6905-89fa-c50b44cdfef0",
+      "uniqueName": "HEdake@elevatecredit.co.uk",
+      "imageUrl": "https://elevatecredit.visualstudio.com/_api/_common/identityImage?id=67b0f2cf-b35e-6905-89fa-c50b44cdfef0",
+      "descriptor": "aad.NjdiMGYyY2YtYjM1ZS03OTA1LTg5ZmEtYzUwYjQ0Y2RmZWYw"
+    },
+    "System.ChangedDate": "2018-12-07T09:09:27.06Z",
+    "System.ChangedBy": {
+      "displayName": "Nghia Tran Duy",
+      "url": "https://app.vssps.visualstudio.com/Afa575fd0-39e3-44b8-824d-df779cd30f16/_apis/Identities/58777f3d-8c6e-667b-a51c-c01914d7a230",
+      "_links": {
+        "avatar": {
+          "href": "https://elevatecredit.visualstudio.com/_apis/GraphProfile/MemberAvatars/aad.NTg3NzdmM2QtOGM2ZS03NjdiLWE1MWMtYzAxOTE0ZDdhMjMw"
+        }
+      },
+      "id": "58777f3d-8c6e-667b-a51c-c01914d7a230",
+      "uniqueName": "NTranDuy@elevatecredit.co.uk",
+      "imageUrl": "https://elevatecredit.visualstudio.com/_api/_common/identityImage?id=58777f3d-8c6e-667b-a51c-c01914d7a230",
+      "descriptor": "aad.NTg3NzdmM2QtOGM2ZS03NjdiLWE1MWMtYzAxOTE0ZDdhMjMw"
+    },
+    "System.CommentCount": 1,
+    "System.Title": "[Regression][Mobile - iPhone 6] Text trim is observed for address text displayed in step 1 address selection when address of long length is selected",
+    "System.BoardColumn": "Ready",
+    "System.BoardColumnDone": false,
+    "System.BoardLane": "Backlog",
+    "Microsoft.VSTS.Common.StateChangeDate": "2018-12-07T09:09:27.06Z",
+    "Microsoft.VSTS.Common.Priority": 3,
+    "Microsoft.VSTS.Common.Severity": "3 - Medium",
+    "Microsoft.VSTS.Common.StackRank": 1999998815,
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "WEF_C09659BBB17F4C0C9043DBEB5DA9258B_Kanban.Column": "Ready",
+    "WEF_C09659BBB17F4C0C9043DBEB5DA9258B_Kanban.Column.Done": false,
+    "WEF_C09659BBB17F4C0C9043DBEB5DA9258B_Kanban.Lane": "Backlog",
+    "ElevateUKAgileTemplate.Compliance": false,
+    "ElevateUKAgileTemplate.TestedinRC": false,
+    "Microsoft.VSTS.TCM.SystemInfo": "<div><span>Environment info<br></span><div>----------------<br></div><div>Environment: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;https://qa-77.qa.thinkfinance.net<br></div><div>Apache directory: &nbsp; &nbsp; &nbsp; /var/www/html is a symlink to /var/www/sunny-php<br></div><div>Branch: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; develop (590e1cea)<br></div><div>Branch last changed: &nbsp; &nbsp;Stewart Blackburn (2 days ago) Merged PR 4736: Mismatch of column names with test vs prod for secure.member_passwords<br></div><div>Branch updates: &nbsp; &nbsp; &nbsp; &nbsp; Your branch is up to date with 'origin/develop'.<br></div><div>Hades branch: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; develop (fb448c8)<br></div><div>Hades last changed: &nbsp; &nbsp; Ha (6 weeks ago) Merged PR 4339: #11152 comment: Adding local comm for responsible lending<br></div><div>Hades updates: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Your branch is up to date with 'origin/develop'.<br></div><div>Virgil URI: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://ukwkiis01.elevate-crp.co.uk:20077<br></div><div>Virgil version: &nbsp; &nbsp; &nbsp; &nbsp; 1.7.6904.33373<br></div><div>Virgil build date: &nbsp; &nbsp; &nbsp;2018-11-26T18:32:26+00:00<br></div><div>Bank Card Check Service: http://ukwkiisqa01.elevate-crp.co.uk/saturn<br></div><div>Bank Card Service version: 1.1.6737.33620<br></div><div>Bank Card Service build date: 2018-06-12T18:40:40+01:00<br></div><div>Cerberus (Sercure Card Vault) Service: https://ukwkiis01.elevate-crp.co.uk:10666<br></div><div>Cerberus status: &nbsp; &nbsp; &nbsp; &nbsp;Service Available<br></div><div>Provenir Underwriting: &nbsp;https://10.16.90.5/provenirmock/processor.php?File=Tier95IYelC1&amp;Region=HTTP<br></div><div>Provenir Verification: &nbsp;https://10.16.90.5/provenirmock/processor.php?File=pricingoneUDs87j&amp;Region=Verification<br></div><div>Provenir Bank Verification: https://10.16.90.5/provenirmock/processor.php?File=AcceptYvf2op&amp;Region=BankVerification<br></div><span>System date: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Wed Dec &nbsp;5 04:48:05 GMT 2018</span><br></div>",
+    "Microsoft.VSTS.TCM.ReproSteps": "<div><b>Raising bug based on the implementation observed in LTTP step 1 page - Bug <span>15914</span> for reference</b></div><div><b><br></b></div><div><ol><li>Start the Organic application journey and land in Step 1 page</li><li>Enter rest all customer information and select post code hang addresses with long length. Example IP333SB - Elevate Credit address</li><li>Observe the address text is not fully seen and text trim is observed</li></ol></div><div><img src=\"https://elevatecredit.visualstudio.com/2b0b3ecc-a7aa-4120-97fc-f78c8fa4bb8d/_apis/wit/attachments/2e1e9f2f-01ed-418e-b264-311c6ba78ebf?fileName=image.png\"></div><div><br></div><div><b>Expected Result -:</b></div><div>Full address text should be visible on Mobile devices</div><div><br></div><div><img src=\"https://elevatecredit.visualstudio.com/2b0b3ecc-a7aa-4120-97fc-f78c8fa4bb8d/_apis/wit/attachments/d35c26ff-318b-45d8-a21a-feea87451d0b?fileName=image.png\"><br></div>"
+  },
+  "_links": {
+    "self": {
+      "href": "https://elevatecredit.visualstudio.com/2b0b3ecc-a7aa-4120-97fc-f78c8fa4bb8d/_apis/wit/workItems/15945"
+    },
+    "workItemUpdates": {
+      "href": "https://elevatecredit.visualstudio.com/2b0b3ecc-a7aa-4120-97fc-f78c8fa4bb8d/_apis/wit/workItems/15945/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://elevatecredit.visualstudio.com/2b0b3ecc-a7aa-4120-97fc-f78c8fa4bb8d/_apis/wit/workItems/15945/revisions"
+    },
+    "workItemComments": {
+      "href": "https://elevatecredit.visualstudio.com/2b0b3ecc-a7aa-4120-97fc-f78c8fa4bb8d/_apis/wit/workItems/15945/comments"
+    },
+    "html": {
+      "href": "https://elevatecredit.visualstudio.com/web/wi.aspx?pcguid=0ba28d3b-cc3a-46f1-aaff-307289bbd506&id=15945"
+    },
+    "workItemType": {
+      "href": "https://elevatecredit.visualstudio.com/2b0b3ecc-a7aa-4120-97fc-f78c8fa4bb8d/_apis/wit/workItemTypes/Bug"
+    },
+    "fields": {
+      "href": "https://elevatecredit.visualstudio.com/2b0b3ecc-a7aa-4120-97fc-f78c8fa4bb8d/_apis/wit/fields"
+    }
+  },
+  "url": "https://elevatecredit.visualstudio.com/2b0b3ecc-a7aa-4120-97fc-f78c8fa4bb8d/_apis/wit/workItems/15945"
+}
